@@ -1,6 +1,6 @@
-git add README.md# AI Planner - Aplikasi Jadwal Belajar
+git add README.md# Smart Schedule - Web sederhana 
 
-Aplikasi untuk merencanakan dan mengelola jadwal belajar Anda.
+Web untuk merencanakan dan mengelola jadwal aktivitas Anda.
 
 ## Struktur Project
 
