@@ -2,6 +2,8 @@ git add README.md# AI Planner - Aplikasi Jadwal Belajar
 
 Aplikasi untuk merencanakan dan mengelola jadwal belajar Anda.
 
+## Struktur Project
+
 ## Teknologi yang Digunakan
 
 - **Frontend**: React + Vite
