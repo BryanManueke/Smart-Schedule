@@ -28,6 +28,14 @@
       "password": "123456",
       "jenisKelamin": "Belum diisi",
       "createdAt": 1764075538939
+    },
+    "lav": {
+      "nama": "Lav",
+      "email": "lav@gmail.com",
+      "nomor": "0853785578",
+      "password": "123456",
+      "jenisKelamin": "Belum diisi",
+      "createdAt": 1764095380673
     }
   },
   "schedules": {
@@ -45,6 +53,19 @@
         "status": "Selesai",
         "updatedAt": "2025-11-25T12:27:18.096Z",
         "createdAt": "2025-11-25T12:27:18.127Z"
+      },
+      {
+        "id": "1764095337408",
+        "kegiatan": "Lari Sore",
+        "tanggal": "2025-11-25",
+        "waktuMulai": "08:00",
+        "waktuSelesai": "09:00",
+        "lokasi": "Jalan Tol",
+        "prioritas": "Sedang",
+        "catatan": "Semangat Lari",
+        "status": "Selesai",
+        "updatedAt": "2025-11-25T18:29:23.048Z",
+        "createdAt": "2025-11-25T18:28:57.408Z"
       }
     ],
     "zeavani": [

@@ -1,5 +1,5 @@
 // API Helper untuk komunikasi dengan JSON Server
-const API_URL = 'http://localhost:3001';
+const API_URL = '/api';
 
 // Helper untuk fetch dengan error handling
 const fetchAPI = async (endpoint, options = {}) => {
