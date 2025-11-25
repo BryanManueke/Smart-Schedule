@@ -17,7 +17,7 @@
     "predev": "npm install --no-audit --no-fund",
     "dev:frontend": "vite",
     "dev": "concurrently \"npm run server\" \"npm run dev:frontend\"",
-    "server": "json-server --watch db.json --port 3001",
+    "server": "json-server --watch db.json --port 3002",
     "build": "vite build",
     "preview": "vite preview",
     "test": "echo \"No test runner configured\""
